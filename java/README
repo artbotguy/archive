@@ -1,0 +1,5 @@
+VSCODE
+  Debugger for JAVA
+    - отключить вывод в терминал
+     Preferences > Extensions > Debugger for Java
+      установить internalConsole
